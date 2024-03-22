@@ -1,0 +1,27 @@
+{
+  "workspaces": [
+    "src"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1",
+    "bun-types": "latest",
+    "globby": "^14.0.0",
+    "rimraf": "^5.0.5",
+    "which-pm-runs": "^1.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "name": "nobislaborum",
+  "author": "LadariusJacobi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElroyJewess/nobislaborum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElroyJewess/nobislaborum.git/issues"
+  },
+  "homepage": "https://github.com/ElroyJewess/nobislaborum.git",
+  "version": "1.0.0"
+}
